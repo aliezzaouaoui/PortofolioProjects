@@ -105,7 +105,4 @@ Three pivot tables were built to analyze:
 
 📎 Repository Content
 
-📁 Bike-Sales-Dashboard/
-├── Bike_Sales_Dashboard.xlsx   # Final project file
-├── README.md                   # Project documentation
-└── Screenshots/                # Images of dashboard (optional)
+
