@@ -91,7 +91,8 @@ Three pivot tables were built to analyze:
 
     Used Report Connections to link slicers to all pivot tables.
 
-    Final dashboard allows filtering by demographics (e.g., Single, Graduate Degree, Europe region) with real-time chart updates.
+    Final dashboard allows filtering by demographics (e.g., Single, Graduate Degree, Europe region) with real-time chart updates.<img width="1451" height="775" alt="Screenshot Bike Sales Dashboard" src="https://github.com/user-attachments/assets/89a8c206-9e0d-46c5-8f20-b2d50dda6be4" />
+
 
 ## Key Insights
 
